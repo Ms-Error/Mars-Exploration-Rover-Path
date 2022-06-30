@@ -9,3 +9,10 @@ To make the project more realistic, the user is provided with a feature to add n
 This project provides the feature of adding obstacles in the form of a wall. If a wall is encountered while traversing the grid, that particular block is skipped and is not visited. Traversing happens until the destination block is reached.
 
 The path is found by traversing the grid from the start node by any of the chosen algorithms, and on visiting the destination node, the path is reconstructed and added up to give the final path. It is beneficial for communication among mars rovers or if an intermediate location is to be found between two coordinates.
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/adtoria"><img src="https://avatars.githubusercontent.com/u/87179624?v=4" width="150px;" alt=""/><br /><sub><b>Aditi Yadav</b></sub></a><br />IIT2020138</td>
+    <td align="center"><a href="https://github.com/skh1203"><img src="https://avatars.githubusercontent.com/u/76679739?v=4" width="150px;" alt=""/><br /><sub><b>Shivam Harjani</b></sub></a><br />IIT2020121</td>
+ </tr>
+</table>
