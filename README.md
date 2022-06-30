@@ -12,7 +12,7 @@ The path is found by traversing the grid from the start node by any of the chose
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Ms-Error"><img src="https://avatars.githubusercontent.com/u/76587467?v=4" width="150px;" alt=""/><br /><sub><b>Aditi Yadav</b></sub></a><br />IIT2020138</td>
-    <td align="center"><a href="https://github.com/Kotha-vineeth"><img src="https://avatars.githubusercontent.com/u/75803142?s=96&v=4" width="150px;" alt=""/><br /><sub><b>Shivam Harjani</b></sub></a><br />IIT2020121</td>
+    <td align="center"><a href="https://github.com/Ms-Error"><img src="https://avatars.githubusercontent.com/u/76587467?v=4" width="150px;" alt=""/><br /><sub><b>Pranavi Tadivalasa</b></sub></a><br />IEC2020026</td>
+    <td align="center"><a href="https://github.com/Kotha-vineeth"><img src="https://avatars.githubusercontent.com/u/75803142?s=96&v=4" width="150px;" alt=""/><br /><sub><b>Kotha Vineeth</b></sub></a><br />IIT2020149</td>
  </tr>
 </table>
